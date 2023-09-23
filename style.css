@@ -1,0 +1,615 @@
+.nav{
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 0;
+    height: 80px;
+    width: 1423px;
+    display: flex;
+    box-shadow: 1px 11px 50px rgb(226, 226, 226);
+
+}
+.user{
+    width: 60px;
+    margin-left: 20px;
+    height: 60px;
+    border-radius: 50px;
+    border: 2px solid rgb(0, 157, 255) ;
+    
+
+}
+.user2{
+    width: 40px;
+    margin-left: 20px;
+    height: 40px;
+    border-radius: 50px;
+   
+    
+
+}
+.naam{
+    display: flex;
+}
+
+.user1{
+    width: 60px;
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 60px;
+    border-radius: 50px;
+   
+    
+
+}
+.user3{
+    width: 40px;
+    margin-left: 13px;
+    height: 40px;
+    border-radius: 50px;
+}
+.user4{
+    width: 40px;
+    margin-left: 13px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+.naamtext{
+    font-family:sans-serif;
+    font-size: 15px;
+margin-left: 10px;
+}
+.naamtext1{
+    font-family:sans-serif;
+    font-size: 15px;
+    margin-top: 12px;
+margin-left: 10px;
+}
+.username{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family:sans-serif;
+    
+}
+.status{
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 15px;
+
+}
+.statuso{
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 15px;
+    color: rgb(0, 169, 0);
+
+}
+.names{
+    margin-top: 25px;
+    margin-left:10px;
+    font-size: 20px;
+    font-family:sans-serif;
+}
+.picture{
+ 
+    margin-top: 20px;
+    width: 450px;
+    margin-left: 12%;
+    height: 200px;
+}
+.showbtn{
+    height: 40px;
+    width: 40px;
+    background:none;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    margin-top: 14px;
+    /* margin-left:80px; */
+    color: rgb(0, 213, 255);
+}
+.left1{
+    position: absolute;
+    left: 320px;
+}
+.left{
+    position: absolute;
+    left: 250px;
+}
+.showbtn:hover{
+    border: 1px solid rgb(0, 157, 255);
+
+    color: rgb(0, 157, 255);
+}
+.online{
+    display: flex;
+}
+.search{
+    height: 50px;
+    margin-top:9px;
+    margin-left: 180px;
+    width: 600px;
+    border: none;
+    background-color:rgb(148, 214, 255);
+    border-radius: 10px;
+    font-size: 20px;
+}
+.logoo{
+    margin-left: 90px;
+    width: 95px;
+    margin-top: -5px;
+    
+}
+.logonamee{
+    font-family: cursive;
+    margin-top: 20px;
+    color: rgb(0, 195, 255) ;
+    font-size: 30px;
+}
+.frnds_section{
+    /* border: 1px solid black; */
+    
+    width: 250px;
+    height: 855px;
+    position: absolute;
+    top: 90px;
+    left: 1170px;
+    box-shadow: -5px 10px 10px rgb(226, 226, 226);
+  
+}
+.stories{
+    position: absolute;
+    top:130px ;
+    left: 870px;
+    width: 250px;
+    height: 700px;
+   
+    box-shadow: -4px 2px 22px rgb(226, 226, 226);
+  
+}
+.addstory{
+    border-radius: 50px;
+    background-color: rgb(0, 195, 255);
+    width: 50px;
+    border: none;
+    color: aliceblue;
+    height: 50px;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+.add_to{
+    display: flex;
+}
+.storyadd{
+    font-family: Tahoma, Times, serif;;
+ margin-left: 10px;
+    margin-top: 27px;
+    stroke: 2px black;
+    font-size: 20px;
+}
+.storyadd2{
+    font-family:sans-serif;
+ 
+    margin-top: 27px;
+    stroke: 2px black;
+    font-size: 13px;
+}
+.b{
+    border: 2px solid rgb(0, 160, 224);
+    
+}
+.g{
+    border: 2px solid rgb(193, 193, 193);
+}
+.frndsstories{
+    font-family: Tahoma, Times, serif;;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.headpost{
+    font-family:sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    color: rgb(0, 0, 0);
+
+}
+.boxes{
+    background-color: black;
+    height: 100px;
+}
+.createpost{
+    position: absolute;
+    top:130px ;
+    left: 240px;
+    width: 600px;
+    height: 250px;
+   
+    box-shadow: -2px 2px 22px rgb(226, 226, 226);
+  
+}
+#timepost{
+    position: absolute;
+    left: 86px;
+    top: 45px;
+    font-size: 13px;
+    color: cadetblue;
+}
+.yourpost{
+    position: absolute;
+    
+    top:430px ;
+    left: 240px;
+    width: 600px;
+    height: 400px;
+    box-shadow: -2px 2px 22px rgb(226, 226, 226);
+    display: none;
+    
+}
+.dill{
+    background-color: none;
+    background: none;
+    border: none;
+    display: flex;
+    cursor: pointer;
+}
+
+.dill1{
+    background-color: none;
+    background: none;
+    border: none;
+    display: flex;
+    cursor: pointer;
+}
+.dill2{
+    background-color: none;
+    background: none;
+    border: none;
+    display: flex;
+    cursor: pointer;
+}
+.dill:focus{
+    color: rgb(238, 0, 0);
+    transform: scale(1.1);
+    transition: all ease 0.3s;
+
+}
+.like{
+    display: flex;
+    position: absolute;
+  justify-content:space-around;
+    height: 30px;
+    width: 500px;
+    left: 5px;
+    top: 230px;
+   
+  
+
+}
+.e{
+    margin-left: 20px;
+}
+.likee{
+    display: flex;
+
+    height: 30px;
+    width: 500px;
+    left: 5px;
+    top: 370px;
+    /* margin-top: 200px; */
+   
+  
+
+}
+.pictureandname{
+    display: flex;
+}
+.picture img{
+    width: 450px;
+    position: absolute;
+    height: 34%;
+}
+.zeeshanbhaipost{
+   
+    box-shadow: -2px 2px 22px rgb(226, 226, 226);
+    position: absolute;
+    top: 400px;
+    left: 240px;
+    width: 599px;
+    height: 500px;
+}
+.pp:focus{
+    color: red;
+    
+
+}
+.pp{
+    margin-top: 7px;
+}
+.pp1{
+    margin-top: 7px;
+}
+.pp2{
+    margin-top: 7px;
+}
+.dil{
+    font-size: 20px;
+    margin-top: 9px;
+    padding-left: 100px;
+    padding-right: 3px;
+    
+}
+.dil1{
+    font-size: 20px;
+    margin-top: 9px;
+    padding-left: 100px;
+    padding-right: 3px;
+}
+.dil2{
+    font-size: 20px;
+    margin-top: 9px;
+    padding-left: 100px;
+    padding-right: 3px;
+}
+.dill1:focus{
+    color: rgb(0, 119, 255);
+    transform: scale(1.1);
+    transition: all ease 0.3s;
+}
+.dill2:focus{
+    color: rgb(93, 155, 255);
+    transform: scale(1.1);
+    transition: all ease 0.3s;
+}
+
+#del{
+   position: absolute;
+   right: 20px;
+   border: none;
+   background: none;
+   color: rgb(0, 166, 232);
+}
+.comment{
+    margin-left: 10px;
+    margin-top: 10px;
+    /* padding-right: 290px; */
+    width: 455px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(234, 234, 234);
+    border-radius: 10px;
+    border: none;
+    
+    
+}
+.yourcommentt{
+    position: absolute;
+    top: 420px;
+}
+.hatt{
+    background-color: none;
+    border: none;
+    background: none;
+}
+#comentcome{
+height: 50px;
+}
+.display{
+    display: flex;
+}
+.display2{
+    display: flex;
+}
+.send:hover{
+    background-color:  rgb(0, 129, 221);
+    transform: scale(1.1);
+}
+.come{
+ margin-top: 25px;
+margin-left: -100px;
+ color: rgb(131, 131, 131);
+
+}
+.come2{
+ margin-top: 25px;
+margin-left: -100px;
+ color: rgb(131, 131, 131);
+
+}
+.name{
+    margin-top: 5px;
+    margin-left: 7px;
+  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.send{
+    background-color: rgb(0, 149, 255);
+    color: white;
+    padding:10px ;
+    border-radius: 50%;
+    transition: all ease 0.5s;
+}
+.comment:focus{
+    outline: none;
+}
+#area{
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 13%;
+    position: absolute;
+    width: 450px;
+    height: 150px;
+    margin-top: -50px;
+
+}
+.color1{
+    
+    height: 20px;
+    width: 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+
+#text2{
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+color: aliceblue;
+   font-size: 25px;
+}
+.font_colors{
+font-family: sans-serif;
+   color: rgb(0, 0, 0);
+   font-size: 18px;
+   display: flex;
+   justify-content:space-evenly;
+}
+.font_colors p {
+    position: absolute;
+  
+}
+.yourcomment{
+    margin-top: -80px;
+}
+.coments{
+    margin-top: 140px;
+    margin-left: 30px;
+}
+.comentpic{
+    display: flex;
+    margin-left: 4px;
+    gap: 5px;
+   
+}
+.m{
+    margin-top: -10px;
+    margin-left: -20px;
+}
+.com{
+    margin-top: -15px;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-left: 29px;
+    color: gray;
+}
+.userc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* #black{
+    background-color: black;
+    border: 2px solid rgb(0, 145, 255);
+}
+#white{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(0, 145, 255);
+}
+#blue{
+    background-color: rgb(66, 63, 255);
+    border: 2px solid rgb(0, 145, 255);
+}
+
+#red{
+    background-color: rgb(255, 15, 15);
+    border: 2px solid rgb(0, 145, 255);
+}
+#green{
+    background-color: rgba(15, 255, 19, 0.565);
+    border: 2px solid rgb(0, 145, 255);
+}
+#purple{
+    background-color: rgb(172, 0, 203);
+    border: 2px solid rgb(0, 145, 255);
+} */
+.posting{
+padding-bottom: 100px;
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin: 9px;
+ border: none;
+ width: 450px;
+ background-color: rgb(241, 241, 241);
+
+}
+.box{
+
+ margin: 9px;
+ border: none;
+ background-color: rgb(241, 241, 241);
+}
+.editing{
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+ 
+}
+.editicon{
+    font-size: 30px;
+    border: none;
+    background-color: none;
+    background: none;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.long{
+width: 600px;
+
+}
+.posting:focus{
+    outline: none;
+}
+.whatsin{
+    width: 450px;
+    border: 1px solid black;
+    padding-bottom: 60px;
+    padding-top: 10px;
+    /* padding-right: 250px; */
+    margin-left: 20px;
+    border: none;
+    font-size: 17px;
+    position: absolute;
+    left: 80px;
+    top: 85px;
+    background: none;
+    color: grey;
+}
+.whatsin:focus{
+    outline: none;
+    border: none;
+}
+.nav1{
+    display: none;
+    
+}
+.downelements{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.photo{
+    background-color: rgb(172, 222, 255);
+    height: 50px;
+    width: 140px;
+    margin-left: 20px;
+    margin-top: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.photo:hover{
+    background-color: rgb(150, 210, 250);
+}
+.elemnts{
+    margin-left: 10px;
+    font-family:sans-serif;
+    margin-top: 15px;
+}
+.elemnts2{
+    margin-left: 20px;
+    font-family:sans-serif;
+    margin-top: 15px;
+}
+.elemnts1{
+    margin-left: 11px;
+    font-family:sans-serif;
+    margin-top: 15px;
+}
